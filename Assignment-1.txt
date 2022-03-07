@@ -1,0 +1,46 @@
+1.
+  * - Expression
+  'hello' - string
+  -87.8 - value
+  - - Expression
+ + - Expression
+ 6 - Integer
+
+
+2.  
+
+  string - A string is a set of characters. Minimum length of string is 1. 
+ Varible - A variable is used to store the values.
+ ex: a = 5
+
+3.
+  Data types:
+ Integer : All the numbers are integers.
+ Float: All decimal numbers are known as float datatype.
+ String: All characters in the single quote or double or triple quotes are known as strings.
+ List: A list is used to store different types of data
+ Tuple: A tuple is used to different types of data. tuple is immutable where list is mutable
+ Set: Set is used to store unique values.
+
+4.
+ Expression: An expression is made up of operator and operands.
+ ex: a + b
+ Where a, b are known as operands and + is known as operator.
+
+5. 
+ spam =5 here we are assigning 5 to spam. this is known as statement.
+ in Expression there should be done any operation.
+
+6. 23
+
+7.'spamspamspam'
+  'spamspamspam'
+
+8.
+ 100 is invalid because this is a datatype of integer.
+
+9. int()
+   float()
+   string()
+
+10.It gives an error because 99 is of type integer and the remaining two are strings. We can not add integer and string type.
